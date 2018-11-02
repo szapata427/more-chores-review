@@ -1,7 +1,7 @@
 {
   "chores": [
     {
-      "id": 2,
+      "id": 1,
       "title": "Wash the dishes",
       "priority": "piling up",
       "duration": "30 min"
